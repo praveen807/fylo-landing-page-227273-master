@@ -1,0 +1,80 @@
+
+
+.bgdark{
+	
+	height: 800px;
+	width: 100%;
+	background-color: hsl(243, 87%, 12%);
+}
+
+
+.ill{
+	padding-top: 170px;
+	padding-left: 120px;
+	background: url(images/bg-intro.svg) center no-repeat;
+	background-size: cover;
+	height: 700px;
+	width: 100%;
+
+}
+
+.ill img{
+	height: 30em;
+	width: 30em;
+
+}
+
+.jumbotron{
+		background-color: white;
+}
+#icons{
+	
+	padding: 10px;
+	padding-right: 50px;
+	padding-top: 50px;
+}
+
+#icons i{
+	float: right;
+	padding: 10px;
+	padding-right: 20px;
+}
+.content{
+	padding-top: 80px;
+}
+.jumbotron h1,h3{
+		font-family: 'Raleway', sans-serif;
+		font-weight: 700;
+		padding: 10px;
+}
+
+.jumbotron p{
+		font-family: 'Open Sans', sans-serif;
+		font-weight: 400;
+		color: hsl(0, 0%, 50%);
+		padding: 15px;
+}
+
+.jumbotron input{
+	border-style: none;
+	box-shadow: 2px 7px #888888;
+	padding: 20px;
+	width: 350px;
+}
+
+.jumbotron button{
+	padding: 20px;
+	width: 150px;
+	background-color: hsl(163, 95%, 43%);
+	border-style: none;
+	border-radius: .5em;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	margin-left: 10px;
+
+}
+.pri{
+	float: right;
+	padding-right: 20px;
+}
